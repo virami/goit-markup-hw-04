@@ -470,6 +470,8 @@ button {
 }
 
 .footer-page .container {
+    display: flex; 
+    align-items: baseline;
     margin-right: 120px
 }
 
@@ -493,7 +495,7 @@ footer .logo-style {
 }
 
 .social-links-ctn-footer {
-    display: inline-block;
+    
 
 }
 
@@ -502,7 +504,7 @@ footer .logo-style {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #fff;
+    color: #ffffff;
     margin-top: 0;
     margin-bottom: 16px;
 }
