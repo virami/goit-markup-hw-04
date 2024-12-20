@@ -517,4 +517,9 @@ footer .logo-style {
     justify-content: center;
     gap: 16px;
 }
+
+.social-link.footer-link:hover,
+.social-link.footer-link:focus {
+    background-color: #31d0aa;
+}
 /* #endregion */
